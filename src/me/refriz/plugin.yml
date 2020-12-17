@@ -1,0 +1,12 @@
+name: PVPShowcase
+author: Refriz
+version: 1.0
+description: Official Inferris plugin
+website: inferris.com
+prefix: INFERRIS
+main: me.refriz.Inferris
+api-version: 1.16
+
+commands:
+  leave:
+    description: Leave
